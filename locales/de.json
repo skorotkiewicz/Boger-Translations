@@ -94,5 +94,6 @@
   "Your nickname": "Ihr Nickname",
   "Nicknames can only contain numbers and letters, the minimum length is 3 characters and the maximum length is 20 characters": "Nicknames können nur Zahlen und Buchstaben enthalten, die minimale Länge beträgt 3 Zeichen und die maximale Länge ist 20 Zeichen",
   "Waiting for a chat partner": "Warten auf einen Chatpartner",
-  "Connected to Space": "Verbunden mit Space"
+  "Connected to Space": "Verbunden mit Space",
+  "Your message can only contain 1000 characters.": "Nachricht kann nur 1000 Zeichen enthalten."
 }
