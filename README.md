@@ -13,7 +13,7 @@ Thank you for your help with the translation!
 
 | Language   | Code | Done |
 | ---------- | :--: | ---: |
-| English    |  en  |  [x] |
+| English    |  en  |   ✅ |
 | Bulgarian  |  bg  |  [ ] |
 | Chinese    |  zh  |  [ ] |
 | Czech      |  cs  |  [ ] |
@@ -22,22 +22,22 @@ Thank you for your help with the translation!
 | Finnish    |  fi  |  [ ] |
 | French     |  fr  |  [ ] |
 | Greek      |  el  |  [ ] |
-| Spanish    |  es  |  [x] |
+| Spanish    |  es  |   ✅ |
 | Japanese   |  ja  |  [ ] |
 | Lithuanian |  lt  |  [ ] |
 | Latvian    |  lv  |  [ ] |
 | Dutch      |  nl  |  [ ] |
-| German     |  de  |  [x] |
+| German     |  de  |   ✅ |
 | Portuguese |  pt  |  [ ] |
-| Polish     |  pl  |  [x] |
-| Russian    |  ru  |  [x] |
+| Polish     |  pl  |   ✅ |
+| Russian    |  ru  |  [ ] |
 | Romanian   |  ro  |  [ ] |
 | Slovak     |  sk  |  [ ] |
 | Slovenian  |  sl  |  [ ] |
 | Swedish    |  sv  |  [ ] |
 | Hungarian  |  hu  |  [ ] |
 | Italian    |  it  |  [ ] |
-| Turkish    |  tr  |  [x] |
+| Turkish    |  tr  |   ✅ |
 
 If your language is not on the todo list, no problem, you can add your language. 😉
 
@@ -45,4 +45,4 @@ If your language is not on the todo list, no problem, you can add your language.
 
 Many thanks to:
 
-- @ouzkagan - Turkish Language
+- [@ouzkagan](https://github.com/ouzkagan) - Turkish Language
