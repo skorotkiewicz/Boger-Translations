@@ -95,5 +95,7 @@
   "Nicknames can only contain numbers and letters, the minimum length is 3 characters and the maximum length is 20 characters": "Nick może zawierać tylko liczby i litery a minimalna długość to 3 znaki a maksymalna długość to 20 znaków",
   "Waiting for a chat partner": "Czekam na rozmówcę",
   "Connected to Space": "Połączono do Space",
-  "Your message can only contain 1000 characters.": "Wiadomość może zawierać jedynie 1000 znaków."
+  "Your message can only contain 1000 characters.": "Wiadomość może zawierać jedynie 1000 znaków.",
+  "Swipe left to disconnect": "Przesuń palcem w lewo, aby się rozłączyć",
+  "Swipe right to start a new chat": "Przesuń palcem w prawo, aby rozpocząć nowy czat"
 }

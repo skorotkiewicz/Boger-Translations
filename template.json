@@ -95,5 +95,7 @@
   "Nicknames can only contain numbers and letters, the minimum length is 3 characters and the maximum length is 20 characters": "",
   "Waiting for a chat partner": "",
   "Connected to Space": "",
-  "Your message can only contain 1000 characters.": ""
+  "Your message can only contain 1000 characters.": "",
+  "Swipe left to disconnect": "",
+  "Swipe right to start a new chat": ""
 }
